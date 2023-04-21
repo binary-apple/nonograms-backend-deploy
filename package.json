@@ -1,0 +1,31 @@
+{
+  "name": "rs-clone-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neemkashu/rs-clone-back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neemkashu/rs-clone-back-end/issues"
+  },
+  "homepage": "https://github.com/neemkashu/rs-clone-back-end#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "firebase": "^9.17.1",
+    "firebase-admin": "^11.5.0"
+  }
+}
